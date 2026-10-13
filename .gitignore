@@ -1,0 +1,13 @@
+
+# Archivos temporales de RStudio
+.Rhistory
+.RData
+.Ruserdata/
+.Rproj.user/
+
+# Base original pesada del INE
+data/raw/ene-2026-06-mjj.csv
+
+# Archivos temporales
+*.tmp
+
